@@ -1,0 +1,9 @@
+{
+  "hosts": {
+    "region": {
+      "host": "regions-test.2gis.com/",
+      "region_segment": "1.0/regions"
+
+    }
+  }
+}
